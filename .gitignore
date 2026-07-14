@@ -1,0 +1,19 @@
+# Raw data files (too large for git)
+data/Nyx/*.dat
+data/processed/volumes/*.npz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# OS files
+.DS_Store
+Thumbs.db
